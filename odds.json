@@ -1,0 +1,14 @@
+{
+  "event_id": "EVT-TEN-001",
+  "markets": [
+    {
+      "market": "moneyline",
+      "outcomes": [
+        { "label": "A", "bookmaker": "Casa1", "odd": 2.10 },
+        { "label": "A", "bookmaker": "Casa2", "odd": 2.05 },
+        { "label": "B", "bookmaker": "Casa1", "odd": 1.95 },
+        { "label": "B", "bookmaker": "Casa2", "odd": 2.10 }
+      ]
+    }
+  ]
+}
